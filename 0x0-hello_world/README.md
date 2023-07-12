@@ -1,0 +1,1 @@
+This involves a practical task on Data types and javascript introduction
